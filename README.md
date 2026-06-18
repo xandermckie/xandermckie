@@ -8,7 +8,7 @@
 
 I'm Xander, a senior Computer Science student with hands-on experience building full-stack web applications and tools. My focus is on building practical software that solves real problems. From accessibility tools to games to tutoring platforms. I'm preparing to enter the software engineering field with a track record of shipped projects and genuine technical depth.
 
-**Education:** B.A. Computer Science (Honors), Minors in Spanish & English-Creative Writing (graduating December 2027)
+**Education:** B.A. Computer Science (Honors), Minors in Spanish & English-Creative Writing (graduating May 2027)
 
 ---
 
@@ -29,12 +29,12 @@ I'm Xander, a senior Computer Science student with hands-on experience building 
 | Project | Tech Stack | Link | Status |
 |---------|-----------|------|--------|
 | **F1 Roller** | React, CSV, JavaScript | In progress | Active development |
-| **Ratio** | Flask, Claude API, Fernet encryption | [Repository](https://github.com/xandermckie/Ratio) | Shipped |
-| **Calendar Assistant** | JavaScript, Manifest V3, Tailwind | [Repository](https://github.com/xandermckie/Calendar-Assistant) | Shipped |
+| **Ratio** | Flask, Claude API, Fernet encryption | [Live]((https://my-week4-project.onrender.com)) | Deployed |
+| **Calendar Assistant** | JavaScript, Manifest V3, Tailwind | In progress | Active development |
 | **Estudio Abroad** | Flask, Python, Render | [Live](https://estudio-abroad.onrender.com) | Deployed |
-| **2 The Xtreme Detailing** | HTML/CSS/JavaScript, Cloudflare Pages | [Live](https://2thextremedetailing.com) | Live business site |
+| **2 The Xtreme Detailing** | HTML/CSS/JavaScript, Cloudflare Pages | [placeholder] | Live business site |
 | **Marx Values** | Political education quiz | [marxvalues.org](https://marxvalues.org) | Live |
-| **Pitwall** | F1 strategy evaluator, Monte Carlo simulation | [Repository](https://github.com/xandermckie) | Archived |
+| **Pitwall** | F1 strategy evaluator, Monte Carlo simulation | [Repository](https://github.com/xandermckie/pitwallv2) | Archived |
 | **Messenger** | Encrypted messaging + music recommendations | [Repository](https://github.com/xandermckie/Messenger) | Shipped |
 
 ---

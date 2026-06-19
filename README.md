@@ -29,9 +29,9 @@ I'm Xander, a senior Computer Science student with hands-on experience building 
 | Project | Tech Stack | Link | Status |
 |---------|-----------|------|--------|
 | **F1 Roller** | React, CSV, JavaScript | [In progress](https://github.com/xandermckie/f1roller) | Active development |
-| **Ratio** | Flask, Claude API, Fernet encryption | [Live]((https://my-week4-project.onrender.com)) | Deployed |
+| **Ratio** | Flask, Claude API, Fernet encryption | [Live](https://my-week4-project.onrender.com) | Deployed |
 | **Calendar Assistant** | JavaScript, Manifest V3, Tailwind | In progress | Active development |
-| **Estudio Abroad** | Flask, Python, Render | [Live](https://estudio-abroad.onrender.com) | Deployed |
+| **Estudio Abroad** | Flask, Python, Render | [Live](https://cursor-spanishstudy-xander.onrender.com) | Deployed |
 | **2 The Xtreme Detailing** | HTML/CSS/JavaScript, Cloudflare Pages | [placeholder] | Live business site |
 | **Marx Values** | Political education quiz | [marxvalues.org](https://marxvalues.org) | Live |
 | **Pitwall** | F1 strategy evaluator, Monte Carlo simulation | [Repository](https://github.com/xandermckie/pitwall_v2) | Archived |

@@ -38,6 +38,7 @@ I'm Xander, a senior Computer Science student with hands-on experience building 
 | **Messenger** | Encrypted messaging + music recommendations | [Repository](https://github.com/xandermckie/Messenger) | Shipped |
 | **FIA WEC Manager Game** | Real Data + Season Simulation | [Repository](https://github.com/xandermckie/wec-endurance-manager) | Shipped |
 | **NBA Manager Game** | NBA API + Customizable Teams | [Repository](https://github.com/xandermckie/cursor-nba-manager-game-harrison) | Shipped |
+| **PyTyping** | Typing Based Learning Game for Python | [Live](https://xandermckie.github.io) | Deployed|
 ---
 
 ## Skills & Learning
